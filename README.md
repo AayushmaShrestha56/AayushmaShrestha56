@@ -1,6 +1,22 @@
 # 💫 About Me:
-💻 Frontend Focus:<br>I design and build responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and React, with strong attention to UI/UX and accessibility.<br><br>🧪 QA & Testing Expertise:<br>Hands-on experience in manual testing, functional testing, regression testing, API testing, and performance testing using tools like Postman and JMeter.<br><br>🤝 Looking to collaborate on:<br>Frontend development projects, QA/testing workflows, web app optimization, and user-centric product development.<br><br>🌱 Currently learning:<br>Advanced React concepts, test automation basics, API test automation, and cloud-based deployment.<br><br>💬 Ask me about:<br>React UI development, UI/UX testing, test case writing, bug reporting, API testing with Postman, and frontend–QA collaboration.<br><br>⚡ Fun fact:<br>I enjoy breaking applications to make them better—and turning test results into better user experiences 💻 Frontend Focus:<br>
-I design and build responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and React, and integrate machine learning–based features and insights into applications, with strong attention to UI/UX and accessibility.<br><br>
+💻 <strong>Frontend & ML Focus:</strong><br>
+I design and build responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and React, and integrate machine learning–driven insights into web applications, with strong attention to UI/UX, accessibility, and data-driven features.<br><br>
+
+🧪 <strong>QA, Testing & ML Evaluation Expertise:</strong><br>
+Hands-on experience in manual testing, functional testing, regression testing, API testing, and performance testing, along with validating ML model outputs and data quality, using tools like Postman, JMeter, and Python-based analysis.<br><br>
+
+🤝 <strong>Looking to collaborate on:</strong><br>
+Frontend development projects, ML-powered web applications, QA/testing workflows, data analysis & ML integration, web app optimization, and user-centric product development.<br><br>
+
+🌱 <strong>Currently learning:</strong><br>
+Advanced React concepts, machine learning fundamentals, model evaluation techniques, test automation basics, API test automation, and cloud-based deployment for ML applications.<br><br>
+
+💬 <strong>Ask me about:</strong><br>
+React UI development, ML model integration in web apps, UI/UX testing, test case writing, bug reporting, data analysis, API testing with Postman, and frontend–QA–ML collaboration.<br><br>
+
+⚡ <strong>Fun fact:</strong><br>
+I enjoy breaking applications to make them better—and turning test results and ML insights into better user experiences 🧩
+
 
 🧪 QA & Testing Expertise:<br>
 Hands-on experience in manual testing, functional testing, regression testing, API testing, and performance testing using tools like Postman and JMeter, along with validating data and ML model outputs.<br><br>
